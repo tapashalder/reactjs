@@ -14,7 +14,7 @@ const App = () => {
     <>
       <Router>
 
-        <Header />
+        <Header propsvar={'akash bala'} />
         
         {/* <TopNavbar /> */}
         {/* <Navbar /> */}
